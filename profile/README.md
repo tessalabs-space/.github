@@ -41,7 +41,7 @@ Strong experience across the full spectrum of space programs:
 
 - **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
 - **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
-- **Commercial GEO / LEO satellite platforms** and **cryogenic / high-temperature instruments**
+- **Cryogenic and high-temperature instruments** — from detector cooling chains to hot-environment payloads
 - **Any lifecycle phase** — from Phase A architecture support through flight-model delivery to on-orbit anomaly review
 
 ## Work with us
