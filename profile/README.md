@@ -37,12 +37,10 @@ The post-processing tool thermal engineers wish existed. Margin tracking, model 
 
 ## Where we fit
 
-Strong experience across the full spectrum of space programs:
-
 - **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
 - **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
 - **Cryogenic and high-temperature instruments** — from detector cooling chains to hot-environment payloads
-- **Any lifecycle phase** — from Phase A architecture support through flight-model delivery to on-orbit anomaly review
+- **Any lifecycle phase** — from Phase A architecture through flight-model delivery, with on-orbit anomaly support available when your mission needs it
 
 ## Work with us
 
