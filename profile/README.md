@@ -40,7 +40,7 @@ The post-processing tool thermal engineers wish existed. Margin tracking, model 
 - **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
 - **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
 - **Research and technology development** — hands-on work on phase change materials (PCM), heat pipes, heat switches, and CubeSat instrumentation
-- **Cryogenic environments** — thermal design and verification for cold hardware and payloads
+- **Cryogenic and hot environments** — thermal design and verification across the full temperature range
 - **Any lifecycle phase** — from Phase A architecture through flight-model delivery, with on-orbit anomaly support available when your mission needs it
 
 ## Work with us
