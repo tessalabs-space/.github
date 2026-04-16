@@ -50,4 +50,4 @@ Every engagement starts with a **discovery call** — a short, no-pressure conve
 
 ---
 
-*Madrid, Spain · Flying thermal control since 2011.*
+*Madrid, Spain · Flying thermal control since 2010.*
