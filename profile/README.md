@@ -37,10 +37,12 @@ The post-processing tool thermal engineers wish existed. Margin tracking, model 
 
 ## Where we fit
 
-- ESA flagship and scientific missions · European prime-contractor programs
-- Commercial GEO / LEO satellite platforms
-- Cryogenic and high-temperature instruments
-- From Phase A architecture support through flight-model delivery to on-orbit anomaly review
+Strong experience across the full spectrum of space programs:
+
+- **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
+- **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
+- **Commercial GEO / LEO satellite platforms** and **cryogenic / high-temperature instruments**
+- **Any lifecycle phase** — from Phase A architecture support through flight-model delivery to on-orbit anomaly review
 
 ## Work with us
 
