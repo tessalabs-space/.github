@@ -1,0 +1,50 @@
+# TESSA LABS
+
+**Specialist spacecraft thermal engineering.**
+30+ missions · 15+ years of flight heritage · [tessalabs.space](https://tessalabs.space)
+
+---
+
+TESSA LABS is a thermal engineering consultancy based in **Madrid**, operating globally. We serve spacecraft programs with two complementary offerings: on-demand consulting and structured training.
+
+**Direct access.** No juniors on your deliverable. No account managers. The person you brief is the person who builds the model.
+
+---
+
+## 🛰 Consulting
+
+Thermal analysis, TVAC testing, design reviews (SRR / PDR / CDR / TRR / MRR), and troubleshooting — from architecture to test correlation.
+
+- Detailed and reduced thermal models in **ESATAN-TMS** and **Thermica**
+- Sensitivity, parametric, and uncertainty analyses
+- Heater line philosophy and PI control design
+- Phase-change materials, heat pipes, VLEO / lunar / martian environments
+- TVAC test preparation, on-console operations, test correlation and model update
+- Independent design reviews and non-conformance analysis
+
+**Flight heritage across** PROBA-3 · PLATO · Solar Orbiter · MTG · ISS FSL · Sentinel-4 · JUICE *(and more)*.
+**Delivery:** project-based (fixed scope + price), hourly consulting, or embedded support for AIT campaigns.
+
+## 🎓 Training
+
+Practical spacecraft thermal control training, built on real flight experience and used as reference material since 2011. Built for thermal engineers transitioning in, systems engineers who need thermal context, and AIT teams preparing for thermal campaigns. Includes dedicated ESATAN-TMS / Thermica training on request.
+
+---
+
+## Where we fit
+
+- **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
+- **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
+- **Research and technology development** — hands-on work on phase change materials (PCM), heat pipes, heat switches, and CubeSat instrumentation
+- **Cryogenic and hot environments** — thermal design and verification across the full temperature range
+- **Any lifecycle phase** — from Phase A architecture through flight-model delivery, with on-orbit anomaly support available when your mission needs it
+
+## Work with us
+
+Every engagement starts with a **discovery call** — a short, no-pressure conversation about your thermal challenge, timeline, and what delivery format fits best. From there you'll get a **scoped proposal** within days and, once agreed, **delivery** to your program's quality standards.
+
+👉 **[tessalabs.space](https://tessalabs.space)** · **[Get in touch →](https://tessalabs.space/#contact)**
+
+---
+
+*Madrid, Spain · Flying thermal control since 2010.*
