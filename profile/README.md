@@ -1,50 +1,77 @@
-# TESSA LABS
+# TESSA Labs
 
-**Specialist spacecraft thermal engineering.**
-30+ missions · 15+ years of flight heritage · [tessalabs.space](https://tessalabs.space)
+**Spacecraft thermal engineering.**
+Experience across 30+ missions. 16 years of thermal engineering.
 
----
+You hire the expert. The expert does the work.
+No juniors, no account managers, no company overhead.
 
-TESSA LABS is a thermal engineering consultancy based in **Madrid**, operating globally. We serve spacecraft programs with two complementary offerings: on-demand consulting and structured training.
-
-**Direct access.** No juniors on your deliverable. No account managers. The person you brief is the person who builds the model.
-
----
-
-## 🛰 Consulting
-
-Thermal analysis, TVAC testing, design reviews (SRR / PDR / CDR / TRR / MRR), and troubleshooting — from architecture to test correlation.
-
-- Detailed and reduced thermal models in **ESATAN-TMS** and **Thermica**
-- Sensitivity, parametric, and uncertainty analyses
-- Heater line philosophy and PI control design
-- Phase-change materials, heat pipes, VLEO / lunar / martian environments
-- TVAC test preparation, on-console operations, test correlation and model update
-- Independent design reviews and non-conformance analysis
-
-**Flight heritage across** PROBA-3 · PLATO · Solar Orbiter · MTG · ISS FSL · Sentinel-4 · JUICE *(and more)*.
-**Delivery:** project-based (fixed scope + price), hourly consulting, or embedded support for AIT campaigns.
-
-## 🎓 Training
-
-Practical spacecraft thermal control training, built on real flight experience and used as reference material since 2011. Built for thermal engineers transitioning in, systems engineers who need thermal context, and AIT teams preparing for thermal campaigns. Includes dedicated ESATAN-TMS / Thermica training on request.
+**[tessalabs.space](https://tessalabs.space)** · **[Work with us →](https://tessalabs.space/#contact)**
 
 ---
 
-## Where we fit
+## What we do
 
-- **ESA flagship and scientific missions** — deep heritage with European prime contractors on long-cycle, high-assurance programs
-- **Startup and new-space programs** — faster cadence, leaner teams, product-grade iteration on thermal design and test
-- **Research and technology development** — hands-on work on phase change materials (PCM), heat pipes, heat switches, and CubeSat instrumentation
-- **Cryogenic and hot environments** — thermal design and verification across the full temperature range
-- **Any lifecycle phase** — from Phase A architecture through flight-model delivery, with on-orbit anomaly support available when your mission needs it
+Three pillars, one focus: spacecraft thermal control, in orbit and on the lunar surface.
 
-## Work with us
+### 01 · Consulting
 
-Every engagement starts with a **discovery call** — a short, no-pressure conversation about your thermal challenge, timeline, and what delivery format fits best. From there you'll get a **scoped proposal** within days and, once agreed, **delivery** to your program's quality standards.
+Thermal analysis, TVAC testing and design reviews, from architecture to test correlation.
 
-👉 **[tessalabs.space](https://tessalabs.space)** · **[Get in touch →](https://tessalabs.space/#contact)**
+- **Thermal analysis & design**: thermal architecture, detailed and reduced models in ESATAN-TMS and Thermica, sensitivity, parametric and uncertainty analyses, heater line philosophy and PI control design
+- **Thermal testing**: test plans and procedures, on-console thermal test operations, thermal balance and cycling campaigns, test correlation and model update
+- **Reviews & support**: independent thermal design reviews (SRR, PDR, CDR, TRR, MRR), troubleshooting and non-conformance analysis
+- **Lunar surface thermal engineering**: lunar surface and regolith thermal models, lunar night survival, lunar dust effects on thermal control
+
+[Services and engagement models →](https://tessalabs.space/services)
+
+### 02 · Training
+
+**Spacecraft Thermal Control.** 12 hours of practical thermal control, built on 30+ real missions. It bridges textbook theory and real mission practice.
+
+- **12 modules**: fundamentals to modelling philosophy
+- **Real missions**: PROBA-3, PLATO, JUICE, Solar Orbiter
+- **For teams**: on-site or remote, onboarding packages
+- **Since 2011**: reference for universities and engineers
+
+[Explore the course →](https://tessalabs.space/courses/spacecraft-thermal-control)
+
+### 03 · Lunar R&D *(coming soon)*
+
+Our R&D initiative on lunar dust and thermal environments: thermal engineering and dust mitigation on the lunar surface.
 
 ---
 
-*Madrid, Spain · Flying thermal control since 2010.*
+## Flight experience & expertise
+
+**Highly specialised in spacecraft thermal control.** Behind it, 16 years of space sector experience spanning engineering, systems, project management and leadership. That mix is practical, not decorative: it lets us design solutions that balance physics, cost, risk, and program realities.
+
+| 30+ missions | 16 years | Phase 0 to flight |
+|:---:|:---:|:---:|
+| PROBA-3, PLATO, Solar Orbiter, JUICE, MTG | Cryogenic to high temperature | Architecture to TVAC correlation |
+
+- **Mission critical**: ESA flagship, scientific and commercial missions, with thermal architectures flying now.
+- **Verification & test**: TVAC test management, execution and correlation. Simulation verified against reality.
+- **Systems & leadership**: lead systems engineer, project manager and team lead, so the thermal design fits the whole system.
+
+Programmes for European prime contractors, from short design reviews to full thermal architecture. [View our portfolio →](https://tessalabs.space/portfolio)
+
+---
+
+## How we work
+
+1. **Discovery call**: we discuss your mission, timeline, and thermal challenges.
+2. **Proposal**: you receive a clear scope, timeline, and fixed or hourly pricing.
+3. **Delivery**: we deliver engineering artefacts to your quality standards.
+
+Fixed-scope packages for well-defined deliverables, or hourly engagement for embedded support through a project phase or a full test campaign.
+
+---
+
+## Get in touch
+
+**Ready to upgrade your thermal capabilities?** Consulting support for a critical project, or training for your team.
+
+**[Contact us →](https://tessalabs.space/#contact)** · [Services](https://tessalabs.space/services) · [Portfolio](https://tessalabs.space/portfolio) · [Training](https://tessalabs.space/courses/spacecraft-thermal-control) · [LinkedIn](https://www.linkedin.com/in/lucassalvador/)
+
+*TESSA Labs: Thermal Engineering Solutions for Space Applications. Madrid, Spain, operating globally.*
